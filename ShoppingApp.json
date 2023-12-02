@@ -1,7 +1,7 @@
 {
   "ShoppingApp":
   [
-    {"department":"Women Clothing","image 1":"--","image2":"--","image3":"--","image4":"--","site1":"--","site2":"--","site3":"--", "site4": "--", "website1" : "--", "website2" : "--", "website3" : "--", "website4" : "--"},
+    {"department":"Women Clothing","image 1":"--","image2":"https://raw.githubusercontent.com/tfuente/IT315ProjectShoppingApp/main/abercrombie.png","image3":"--","image4":"--","site1":"Hollister","site2":"Abercrombie","site3":"Old Navy", "site4": "Kohl's", "website1" : "--", "website2" : "--", "website3" : "--", "website4" : "--"},
     {"department":"Women Shoes","image 1":"--","image2":"--","image3":"--","image4":"--","site1":"--","site2":"--","site3":"--", "site4": "--", "website1" : "--", "website2" : "--", "website3" : "--", "website4" : "--"},
     {"department":"MenClothing","image 1":"--","image2":"--","image3":"--","image4":"--","site1":"--","site2":"--","site3":"--", "site4": "--", "website1" : "--", "website2" : "--", "website3" : "--", "website4" : "--"},
     {"department":"Men Shoes","image 1":"--","image2":"--","image3":"--","image4":"--","site1":"--","site2":"--","site3":"--", "site4": "--", "website1" : "--", "website2" : "--", "website3" : "--", "website4" : "--"},
