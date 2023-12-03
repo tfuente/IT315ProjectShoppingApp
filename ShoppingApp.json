@@ -2,12 +2,12 @@ Dictionary --: {
     ShoppingApp =     (
                 {
             department = "Women Clothing";
-            "image 1" = "https://raw.githubusercontent.com/tfuente/IT315ProjectShoppingApp/main/hollister.png";
+            image1 = "https://raw.githubusercontent.com/tfuente/IT315ProjectShoppingApp/main/hollister.png";
             image2 = "https://raw.githubusercontent.com/tfuente/IT315ProjectShoppingApp/main/abercrombie.png";
             image3 = "https://raw.githubusercontent.com/tfuente/IT315ProjectShoppingApp/main/oldnavy.png";
             image4 = "https://raw.githubusercontent.com/tfuente/IT315ProjectShoppingApp/main/kohls.png";
-            site1 = Hollister;
-            site2 = Abercrombie;
+            site1 = "Hollister";
+            site2 = "Abercrombie";
             site3 = "Old Navy";
             site4 = "Kohl's";
             website1 = "https://www.hollisterco.com";
@@ -17,11 +17,11 @@ Dictionary --: {
         },
                 {
             department = "Women Shoes";
-            "image 1" = "https://raw.githubusercontent.com/tfuente/IT315ProjectShoppingApp/main/dsw.png";
+            image1 = "https://raw.githubusercontent.com/tfuente/IT315ProjectShoppingApp/main/dsw.png";
             image2 = "https://raw.githubusercontent.com/tfuente/IT315ProjectShoppingApp/main/stevemadden.png";
             image3 = "https://raw.githubusercontent.com/tfuente/IT315ProjectShoppingApp/main/finishline.png";
             image4 = "https://raw.githubusercontent.com/tfuente/IT315ProjectShoppingApp/main/journeys.png";
-            site1 = DSW;
+            site1 = "DSW";
             site2 = "Steve Madden";
             site3 = "Finsih Line";
             site4 = "Journey's";
